@@ -1,0 +1,12 @@
+{
+  "notebook.consolidatedRunButton": false,
+  "task.quickOpen.showAll": false,
+  "task.problemMatchers.neverPrompt": true,
+  "editor.wordWrap": "off",
+  "workbench.commandPalette.experimental.suggestCommands": false,
+  "workbench.colorTheme": "Andromeda Italic",
+  "workbench.preferredDarkColorTheme": "Andromeda Bordered",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.tree.indent": 12,
+  "workbench.view.alwaysShowHeaderActions": true
+}
